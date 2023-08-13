@@ -1,0 +1,7 @@
+master
+ maaster
+ master
+asdfa
+
+
+Adding more content to see it is reflecting in bash or not
